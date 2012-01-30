@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="MacRoman" standalone="no"?>
 <jardesc>
-    <jar path="/Users/simon/Desktop/MCServer/plugins/HaveCake.jar"/>
-    <options buildIfNeeded="true" compress="true" descriptionLocation="/HaveCake/Builder.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="true" useSourceFolders="false"/>
+    <jar path="/Users/simon/Desktop/MCServer/plugins/WelcomeCake.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/WelcomeCake/Builder.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="true" useSourceFolders="false"/>
     <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
     <selectedProjects/>
     <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
@@ -11,7 +11,7 @@
         </sealing>
     </manifest>
     <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
-        <file path="/HaveCake/plugin.yml"/>
-        <javaElement handleIdentifier="=HaveCake/src"/>
+        <javaElement handleIdentifier="=WelcomeCake/src"/>
+        <file path="/WelcomeCake/plugin.yml"/>
     </selectedElements>
 </jardesc>
